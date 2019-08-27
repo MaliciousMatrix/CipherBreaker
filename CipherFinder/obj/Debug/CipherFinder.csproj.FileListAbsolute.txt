@@ -1,0 +1,7 @@
+C:\Users\Taillow\source\repos\CipherFinder\CipherFinder\bin\Debug\CipherFinder.exe.config
+C:\Users\Taillow\source\repos\CipherFinder\CipherFinder\bin\Debug\CipherFinder.exe
+C:\Users\Taillow\source\repos\CipherFinder\CipherFinder\bin\Debug\CipherFinder.pdb
+C:\Users\Taillow\source\repos\CipherFinder\CipherFinder\obj\Debug\CipherFinder.csprojAssemblyReference.cache
+C:\Users\Taillow\source\repos\CipherFinder\CipherFinder\obj\Debug\CipherFinder.csproj.CoreCompileInputs.cache
+C:\Users\Taillow\source\repos\CipherFinder\CipherFinder\obj\Debug\CipherFinder.exe
+C:\Users\Taillow\source\repos\CipherFinder\CipherFinder\obj\Debug\CipherFinder.pdb
